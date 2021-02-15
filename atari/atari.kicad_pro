@@ -331,7 +331,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "adapter.kicad_pro",
+    "filename": "atari.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -399,6 +399,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "65ca1206-001d-4d2a-8c3f-63fc8cc59a1a",
+      ""
+    ]
+  ],
   "text_variables": {}
 }
